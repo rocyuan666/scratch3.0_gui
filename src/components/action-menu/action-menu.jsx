@@ -1,3 +1,4 @@
+// 选择角色选择背景
 import PropTypes from 'prop-types';
 import React from 'react';
 import classNames from 'classnames';
